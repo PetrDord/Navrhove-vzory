@@ -2,6 +2,8 @@
 include 'so.php';
 include 'nade.php';
 
+
+
 class fasada{
     
     /**

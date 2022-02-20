@@ -1,5 +1,7 @@
 <?php
  
+
+ 
  class nasoby{
      
     /**
@@ -7,6 +9,8 @@
      * 
      * vypočte a vrátí součin dvou čísel
      * 
+     * @param float
+     * @param float
      * @return float
      */
     public static function nasobeni($a, $b): float
@@ -19,6 +23,8 @@
      * 
      * vypočte a vrátí podíl dvou čísel
      * 
+     * @param float
+     * @param float
      * @return float
      */
     public static function deleni($a, $b): float
