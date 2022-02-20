@@ -1,5 +1,5 @@
 # Navrhove-vzory
-V tomto repořitáři najdete příklady dvou návrhových vzorů Singleton a Facade
+V tomto repořitáři najdete příklady dvou návrhových vzorů Singleton a Facade. Spolešně s jejich UML diagramy.
 
 <h2>Singleton</h2>
 - znamená že v daná třídě může existovat pouze jedna instance(objekt)
