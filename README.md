@@ -3,6 +3,15 @@ V tomto repořitáři najdete příklady dvou návrhových vzorů Singleton a Fa
 
 <h2>Singleton</h2>
 - znamená že v daná třídě může existovat pouze jedna instance(objekt)
+ <br>
 - instanci jde vytvářet pouze v samotné třídě
-- tady vidíte UML diagram Singeltonové třídy
-![alt text](https://github.com/PetrDord/Navrhove-vzory/blob/main/singleton/Singleton.UML.png)
+ <br>
+
+<h2>Facade</h2>
+-slouží ke zjednodušení komunikace mezi uživatelem a systémem
+<br>
+-používá se k nahrazení velkého počtu subsytému, sjednocením rozhraním, které obsahuje všechny funkce sjednocených subsystému
+<br>
+<br>
+V uvedeném příkladu najdete třídu, která umí přičítat a odčítat čísla a druhou třídu, která je umí nasobit a dělit pro tyto dvě třídy jsem vytvořil fasádu, která umí vypisovat   
+výsledky těchto dvou tříd.
